@@ -4,6 +4,10 @@ Curated resources for cryptolaw. _WIP_.
 
 # Content 
 
+## Caselaws
+
+- [Securities and Exchange Commission v. Ripple Labs Inc., 1:20-cv-10832, (S.D.N.Y.)](https://storage.courtlistener.com/recap/gov.uscourts.nysd.551082/gov.uscourts.nysd.551082.874.0_4.pdf)
+
 # Contribute 
 
 Ready to contribute? Check out our [contribution guidelines](https://github.com/lexDAO/awesome-cryptolaw/blob/main/CONTRIBUTING.md).
