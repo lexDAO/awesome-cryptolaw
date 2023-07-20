@@ -4,9 +4,14 @@ Curated resources for cryptolaw. _WIP_.
 
 # Content 
 
-## Caselaws
+## Caselaw
 
-- [Securities and Exchange Commission v. Ripple Labs Inc., 1:20-cv-10832, (S.D.N.Y.)](https://storage.courtlistener.com/recap/gov.uscourts.nysd.551082/gov.uscourts.nysd.551082.874.0_4.pdf)
+- [Securities and Exchange Commission v. Ripple Labs Inc., 1:20-cv-10832, (S.D.N.Y.)](https://storage.courtlistener.com/recap/gov.uscourts.nysd.551082/gov.uscourts.nysd.551082.874.0_4.pdf) - programmatic sales i.e. sale on exchanges are more similar to secondary trading than to the initial offering.
+
+## Misc.
+
+- [DAO Legal Entity Matrix](https://daos.paradigm.xyz/) - for comparing various legal structures used by DAOs in the US as well as a few international jurisdictions.
+
 
 # Contribute 
 
