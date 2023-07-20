@@ -6,7 +6,7 @@ Our goal is to curate a list of resources that are reliable and beneficial to in
 
 ## How to Contribute?
 
-The easiest way is to visit https://github.com/user/awesome-cryptolaw/blob/main/README.md and click on the "pen" icon in the upper right corner. Make the necessary changes to the file and follow the on-screen instructions to create a pull request.
+The easiest way is to visit https://github.com/lexDAO/awesome-cryptolaw/blob/main/README.md and click on the "pen" icon in the upper right corner. Make the necessary changes to the file and follow the on-screen instructions to create a pull request.
 
 When adding an entry to the `README.md`, please consider:
 
