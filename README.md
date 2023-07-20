@@ -6,7 +6,7 @@ Curated resources for cryptolaw. _WIP_.
 
 ## Research 
 
-- [Legal Wrappers and DAOs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4123737) - Comprehensive overview and explanation of legal wrappers available to DAOs
+- [Legal Wrappers and DAOs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4123737) - Comprehensive overview and explanation of legal wrappers available to DAOs.
 
 ## Caselaw
 
