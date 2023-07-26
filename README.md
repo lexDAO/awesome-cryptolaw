@@ -5,7 +5,7 @@ Curated resources for cryptolaw. _WIP_.
 # Content 
 
 ## Caselaw
-
+- [ENS Labs Ltd v. GoDaddy Incorporated, 2:22-cv-01494, (D. Ariz.)](https://www.courtlistener.com/docket/64950616/true-names-limited-v-godaddy-incorporated/) - 
 - [Securities and Exchange Commission v. Ripple Labs Inc., 1:20-cv-10832, (S.D.N.Y.)](https://storage.courtlistener.com/recap/gov.uscourts.nysd.551082/gov.uscourts.nysd.551082.874.0_4.pdf) - U.S. federal district court holding that tokens alone are not investment contracts but may be sold in reportable transactions depending on the economic reality under the totality of the circumstances, such as direct *institutional sales* marketed to fundraise for projects related to token and with legal documentation. *Programmatic sales* by an issuer of tokens, like blind bids/asks on exchanges, do not present the token purchaser with sufficient context to reasonably view this as an investment in the issuer, as they do not know if their purchase price will go to fundraise or to another market participant. Therefore the third prong of the *Howey* test is not met. Other distributions of tokens, like compensation or grants, also are not reportable as investment contracts, as there is no payment or sale, and as such, the first prong of the *Howey* test is not met. 
 
 ## Misc.
